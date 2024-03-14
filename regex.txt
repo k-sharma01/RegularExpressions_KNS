@@ -1,0 +1,7 @@
+gl(oo|u)m(.)*
+haunt(.)*
+myster(y|i(.)*)
+forebod(e|ing)(ness)?
+melanchol(.)*
+terr(or(ize)?|if(y|ied|ic))
+desolat(.)*
